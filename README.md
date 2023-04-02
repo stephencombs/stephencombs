@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Stephen Combs**, a **Software Engineer working @ Paycor**. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. **Skilled in Angular, React, NodeJS, Spring, AWS, and RESTfull API's**. I recieved my Bachelor of Science for Computer Information Systems concentrated in Cyber Defense from the University of Dayton.
+I am **Stephen Combs**, a **Software Engineer working @ Paycor**. I have a demonstrated history of working in the information technology and services industry. **Skilled in Angular, React, NodeJS, Spring, Typescript, and AWS**. I recieved my Bachelor of Science for Computer Information Systems concentrating in Cyber Defense from the University of Dayton.
 
 ---
 
